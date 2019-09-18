@@ -6,7 +6,8 @@ add notes, remove notes, read notes and list notes with <u>yargs command</u>
 
 1. open your vs-code.
 2. open new terminal.
-3. run notes-app> node file_name 
+3. run notes-app> node file_name yargsCommandName
 
-example:- weather-app> node app.js add --title="abc" --body="xyz"
-        weather-app> node app.js remove --title="abc" 
+### Example 
+1. weather-app> node app.js add --title="abc" --body="xyz"
+2. weather-app> node app.js remove --title="abc" 
